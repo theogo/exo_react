@@ -1,0 +1,24 @@
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 4px solid rgb(124, 18, 124);
+    padding: 5%;
+}
+
+.bio{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
